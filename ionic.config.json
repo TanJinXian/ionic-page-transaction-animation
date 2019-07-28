@@ -1,5 +1,7 @@
 {
   "name": "page-transaction",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
